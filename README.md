@@ -5,17 +5,17 @@
   <tr>
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
       <br />
-      📦 <b><a href="https://stepik.org/a/297714?utm_source=personal_github">Oxford English File + ИИ</a></b>
+       <b><a href="https://stepik.org/a/297714?utm_source=personal_github">Oxford English File + ИИ</a></b>
       <p>Разговорная практика для всех уровней с искусственным интеллектом.</p>
     </td>
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
       <br />
-      ⚡ <b><a href="https://stepik.org/a/295670?utm_source=personal_github">Project Reactor</a></b>
+       <b><a href="https://stepik.org/a/295670?utm_source=personal_github">Project Reactor</a></b>
       <p>Базовый уровень реактивного программирования для Java-разработчиков.</p>
     </td>
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
       <br />
-      🧵 <b><a href="https://stepik.org/a/296620?utm_source=personal_github">Java Concurrency под капотом</a></b>
+       <b><a href="https://stepik.org/a/296620?utm_source=personal_github">Java Concurrency под капотом</a></b>
       <p>Продвинутая многопоточность и глубокое погружение в параллелизм.</p>
     </td>
   </tr>
@@ -24,15 +24,39 @@
   <tr>
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
       <br />
-      🔄 <b><a href="https://stepik.org/a/297808?utm_source=personal_github">Apache Kafka под капотом</a></b>
+       <b><a href="https://stepik.org/a/297808?utm_source=personal_github">Apache Kafka под капотом</a></b>
       <p>Архитектура, исходный код, Highload.</p>
     </td>
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
       <br />
-      🗄️ <b><a href="https://stepik.org/a/298546?utm_source=personal_github">PostgreSQL Guru: от байтов на диске до распределённых кластеров</a></b>
+       <b><a href="https://stepik.org/a/298546?utm_source=personal_github">PostgreSQL Guru: от байтов на диске до распределённых кластеров</a></b>
       <p>Внутреннее устройство, распределенные кластеры, Highload.</p>
     </td>
-    <!-- Пустая ячейка для выравнивания сетки -->
-    <td align="left" width="300" valign="top" bgcolor="#ffffff"></td>
+
+    <td align="left" width="300" valign="top" bgcolor="#ffffff">
+      <br/>
+       <b><a href="https://stepik.org/a/299501?utm_source=personal_github">Docker под капотом: От Linux namespaces до Highload</a></b>
+      <p>Внутреннее устройство, безопасность, Highload.</p>
+    </td>
+  
   </tr>
+  <tr>
+    <td align="left" width="300" valign="top" bgcolor="#ffffff">
+      <br />
+       <b><a href="https://stepik.org/a/300032?utm_source=personal_github">Kubernetes под капотом: От рантаймов до планетарного масштаба</a></b>
+      <p>Архитектура, исходный код, Highload.</p>
+    </td>
+    <td align="left" width="300" valign="top" bgcolor="#ffffff">
+      <br />
+       <b><a href="https://stepik.org/a/300087?utm_source=personal_github">Java Release Train: От 8 до ♾️. Версии и фичи.</a></b>
+      <p>Версии jvm и их фичи</p>
+    </td>
+    <td align="left" width="300" valign="top" bgcolor="#ffffff"></td>
+
+  
+  </tr>
+
+  
+    <!-- Пустая ячейка для выравнивания сетки -->
+    <!-- <td align="left" width="300" valign="top" bgcolor="#ffffff"></td> -->
 </table>
