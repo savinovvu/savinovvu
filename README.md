@@ -21,24 +21,19 @@
   </tr>
   
   <!-- Второй ряд (оставшиеся карточки) -->
-  <tr>
+ <tr>
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
-      <br />
-       <b><a href="https://stepik.org/a/297808?utm_source=personal_github">Apache Kafka под капотом</a></b>
+      <b><a href="https://stepik.org/a/297808?utm_source=personal_github">Apache Kafka под капотом</a></b>
       <p>Архитектура, исходный код, Highload.</p>
     </td>
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
-      <br />
-       <b><a href="https://stepik.org/a/298546?utm_source=personal_github">PostgreSQL Guru: от байтов на диске до распределённых кластеров</a></b>
+      <b><a href="https://stepik.org/a/298546?utm_source=personal_github">PostgreSQL Guru: от байтов на диске до распределённых кластеров</a></b>
       <p>Внутреннее устройство, распределенные кластеры, Highload.</p>
     </td>
-
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
-      <br/>
-       <b><a href="https://stepik.org/a/299501?utm_source=personal_github">Docker под капотом: От Linux namespaces до Highload</a></b>
+      <b><a href="https://stepik.org/a/299501?utm_source=personal_github">Docker под капотом: От Linux namespaces до Highload</a></b>
       <p>Внутреннее устройство, безопасность, Highload.</p>
     </td>
-  
   </tr>
   <tr>
     <td align="left" width="300" valign="top" bgcolor="#ffffff">
