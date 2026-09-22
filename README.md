@@ -48,10 +48,8 @@
     </td>
     <td align="left" width="300" valign="top" bgcolor="#ffffff"></td>
 
-  
   </tr>
 
   
-    <!-- Пустая ячейка для выравнивания сетки -->
-    <!-- <td align="left" width="300" valign="top" bgcolor="#ffffff"></td> -->
+
 </table>
